@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Lab 2 C sharp")]
+[assembly: AssemblyTitle("2labWork")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lab 2 C sharp")]
+[assembly: AssemblyProduct("2labWork")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("31b6f3ce-f3a3-4f47-a2ff-501a56151885")]
+[assembly: Guid("be41aeb5-200e-4e5a-a968-bb6b13b1cbfc")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
